@@ -1,0 +1,5 @@
+#
+# Raw Radio In command
+#
+
+int14[<=20] channel
