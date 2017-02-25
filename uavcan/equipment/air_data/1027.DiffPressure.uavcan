@@ -1,0 +1,6 @@
+#
+# Differential pressure.
+#
+
+float32 differential_pressure           # Pascal
+float16 static_pressure_variance        # Pascal^2
